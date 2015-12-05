@@ -1,6 +1,6 @@
 # Open In PyCharm Terminator Plugin
 
-Let's you click on a path in terminator, find path's absolute path and open in PyCharm.
+Lets you click on a path in terminator, find path's absolute path and open in PyCharm.
 
 ![](/shot.png)
 

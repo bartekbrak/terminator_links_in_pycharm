@@ -2,7 +2,9 @@
 
 Let's you click on a path in terminator, find path's absolute path and open in PyCharm.
 
-# Install 
+![](/shot.png)
+
+# Install
 
 ```
 cd ~/.config/terminator/plugins
